@@ -1,7 +1,7 @@
 # CelesMark Pro - 鸿蒙原生性能测试工具 (专业版)
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/你的图标链接.png" width="100" height="100" alt="Logo">
+    
     <h3>首款鸿蒙性能测试软件</h3>
 </div>
 
@@ -12,7 +12,7 @@ CelesMark Pro 是一款专为 HarmonyOS NEXT 打造的专业性能基准测试�
 * **完全离线**：无网络权限，纯本地运行，保护隐私。
 
 ## 📥 下载地址
-请前往右侧 **[Releases](这里填你的Release页面链接)** 页面下载最新版本。
+请前往右侧 **[Releases]([这里填你的Release页面链接](https://github.com/luweisong-R/CelesMarkPro/releases/tag/v1.0.0))** 页面下载最新版本。
 
 ## 💿 安装教程 (必读)
 本软件包含 **主程序** 和 **测试引擎** 两个模块，且为 **Unsigned (未签名)** 版本。
